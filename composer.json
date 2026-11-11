@@ -12,8 +12,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "youvision",
-            "email": "com_80zx@163.com"
+            "name": "indiboy-create",
+            "homepage": "https://github.com/indiboy-create"
+        },
+        {
+            "name": "AI",
+            "role": "Developer"
         }
     ],
     "require": {
